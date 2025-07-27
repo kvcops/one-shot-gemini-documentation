@@ -1,4 +1,8 @@
 # Complete Gemini API Documentation for Offline LLM
+> ⚠️ **Disclaimer**  
+> This documentation is an enhanced, summarized, and reorganized version of the [official Gemini API documentation](https://ai.google.dev).  
+> It is shared for educational and reference purposes only. Always consult the official docs for the latest updates.
+
 
 This file contains the complete, single-file documentation for the Google Gemini API.
 
