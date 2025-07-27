@@ -31,4 +31,4 @@ This document includes detailed information on:
 
 ## Usage
 
-To use this documentation with an offline LLM, simply load the entire content of this `readme.md` file as a single text input or document. The LLM will then be able to use the information contained within to respond to your queries about the Gemini API.
+To use this documentation with an offline LLM, simply load the entire content of this `Gemini API quickstart.txt` file as a single text input or document. The LLM will then be able to use the information contained within to respond to your queries about the Gemini API.
